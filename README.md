@@ -2,15 +2,14 @@ Hi there,
 
 How nice of you to visit!
 
-I'm Bernardo, a biomedical researcher with a flare for data and programming. Pythonist at heart with skills in R, SQL and MongoDB.
+I'm a biomedical researcher with a flare for programming and development. Pythonist at heart with skills in R and some DB.
 Linux user for 10+ years and always trying to learn something new.
 
-Currently working as a post-doctoral fellow at [CSBL](https://www.csbiology.org) exploring smartwatch data.
+Currently working as a post-doctoral fellow at UEF.
 
-I'm looking forward to moving into more computational work, science-related or not.
+I'm looking forward to moving into development, science-related or not.
 Open for any kind of collaboration where I can be of help.
 
-You can reach me here any time.
 
 Towards the stars!
 <!---
